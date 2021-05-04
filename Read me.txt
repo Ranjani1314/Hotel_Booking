@@ -1,0 +1,14 @@
+Steps to follow "To run the test cases":
+
+1.Download the solution from Git Hub.
+
+2.Open the solution in Visual Studio 2019
+
+3. Click on Manage NuGet packages for solution
+
+4.Install MSTest.TestAdapter
+
+5. Rebuild the solution and run the test cases
+
+
+

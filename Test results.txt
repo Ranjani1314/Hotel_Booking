@@ -1,0 +1,495 @@
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+1
+
+Enter Start Day
+-4
+Enter End Day
+2
+Decline
+
+Enter Start Day
+200
+Enter End Day
+400
+Decline
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+3
+
+Enter Start Day
+0
+Enter End Day
+5
+Booking accepted against Room no. 3
+
+Enter Start Day
+7
+Enter End Day
+13
+Booking accepted against Room no. 3
+
+Enter Start Day
+3
+Enter End Day
+9
+Booking accepted against Room no. 2
+
+Enter Start Day
+5
+Enter End Day
+7
+Booking accepted against Room no. 1
+
+Enter Start Day
+6
+Enter End Day
+6
+Booking accepted against Room no. 3
+
+Enter Start Day
+0
+Enter End Day
+4
+Booking accepted against Room no. 1
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+3
+
+Enter Start Day
+1
+Enter End Day
+3
+Booking accepted against Room no. 1
+
+Enter Start Day
+2
+Enter End Day
+5
+Booking accepted against Room no. 3
+
+Enter Start Day
+1
+Enter End Day
+9
+Booking accepted against Room no. 2
+
+Enter Start Day
+0
+Enter End Day
+15
+Booking declined
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+3
+
+Enter Start Day
+1
+Enter End Day
+3
+Booking accepted against Room no. 1
+
+Enter Start Day
+0
+Enter End Day
+15
+Booking accepted against Room no. 3
+
+Enter Start Day
+1
+Enter End Day
+9
+Booking accepted against Room no. 2
+
+Enter Start Day
+2
+Enter End Day
+5
+Booking declined
+
+Enter Start Day
+4
+Enter End Day
+9
+Booking accepted against Room no. 1
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+2
+
+Enter Start Day
+1
+Enter End Day
+3
+Booking accepted against Room no. 1
+
+Enter Start Day
+0
+Enter End Day
+4
+Booking accepted against Room no. 2
+
+Enter Start Day
+2
+Enter End Day
+3
+Booking declined
+
+Enter Start Day
+5
+Enter End Day
+5
+Booking accepted against Room no. 2
+
+Enter Start Day
+4
+Enter End Day
+10
+Booking accepted against Room no. 1
+
+Enter Start Day
+10
+Enter End Day
+10
+Booking accepted against Room no. 2
+
+Enter Start Day
+6
+Enter End Day
+7
+Booking accepted against Room no. 2
+
+Enter Start Day
+8
+Enter End Day
+10
+Booking declined
+
+Enter Start Day
+8
+Enter End Day
+9
+Booking accepted against Room no. 2
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+1000
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 1000
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 999
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 998
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 997
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 996
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 995
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 994
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 993
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 992
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 991
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 990
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 989
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 988
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 987
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 986
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 985
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 984
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 983
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 982
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking accepted against Room no. 981
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+1000
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 1000
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 999
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 998
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 997
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 996
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 995
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 994
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 993
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 992
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 991
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 990
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 989
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 988
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 987
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 986
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 985
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 984
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 983
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 982
+
+Enter Start Day
+257
+Enter End Day
+300
+Booking accepted against Room no. 981
+//End
+
+
+//Start
+Welcome to Online Hotel Reservation System
+
+Please enter room size
+2
+
+Enter Start Day
+0
+Enter End Day
+0
+Booking accepted against Room no. 2
+
+Enter Start Day
+0
+Enter End Day
+1
+Booking accepted against Room no. 1
+
+Enter Start Day
+5
+Enter End Day
+5
+Booking accepted against Room no. 1
+
+Enter Start Day
+4
+Enter End Day
+5
+Booking accepted against Room no. 2
+
+Enter Start Day
+3
+Enter End Day
+3
+Booking accepted against Room no. 1
+
+Enter Start Day
+2
+Enter End Day
+4
+Booking declined
+//End
+
